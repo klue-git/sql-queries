@@ -1,4 +1,4 @@
-# PostgreSQL Project: Rockbuster Stealth Data Analysis Project
+# PostgreSQL Project: Rockbuster Stealth Data Analysis
 ## *Careerfoundry Data Analytics Certification*
 
 ## Project Brief
