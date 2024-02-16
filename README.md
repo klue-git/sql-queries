@@ -28,8 +28,8 @@ the Rockbuster Stealth management team is planning to use its existing movie lic
 **Data**
 
 Open-source [datasets from Rockbuster](http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip), including e.g. film inventory, customers and payment, accessed from zip file.
-[Datadictionary](https://drive.google.com/file/d/17tYM_Ub3derrbdEFNXW2XGQ8-VWIzPAR/view?usp=drive_link)
 
+[Datadictionary](https://drive.google.com/file/d/1hvtXE-zsAgj4Hvrp6N01VpWXVjqcVZMD/view?usp=drive_link)
 
 **Project Tasks & Deliverables**
 
