@@ -1,4 +1,4 @@
-# PostgreSQL Project: Rockbuster Stealth Data Analysis
+# Rockbuster Stealth Project - Answering business questions for an online video rental company
 ## *Careerfoundry Data Analytics Certification*
 
 ## Project Brief
